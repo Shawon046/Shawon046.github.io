@@ -11,9 +11,8 @@ last_name: Haque
 # linkedin_username: md-shahedul-haque-shawon-5023491b7 # your LinkedIn user name
 # twitter_username: shahedul_shawon # your Twitter user name
 # # orcid_id: 0000-0002-1825-0097 # your ORCID iD
-# google_scholar_id: O1sWN2oAAAAJ # your Google Scholar user ID (the part after "user=" in the URL)  
+# google_scholar_id: O1sWN2oAAAAJ # your Google Scholar user ID (the part after "user=" in the URL)
 # whatsapp_number: +15716228116 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-
 
 contact_note: >
   Please feel free to reach out through your preferred medium.
@@ -58,14 +57,13 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false # true # false 
+search_enabled: false # true # false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
 
 # Dimensions
 max_width: 930px
-
 
 # TODO: add layout settings (single page vs. multi-page)
 
