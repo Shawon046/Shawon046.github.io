@@ -473,7 +473,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/md-shahedul-haque-shawon-5023491b7# your LinkedIn user name", "_blank");
+          window.open("https://www.linkedin.com/in/md-shahedul-haque-shawon-5023491b7", "_blank");
         },
       },{
         id: 'social-whatsapp',
