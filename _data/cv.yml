@@ -15,10 +15,10 @@
       institution: Virginia Tech, USA
       year: 2025
       description:
-        - Machine Learning 
+        - Machine Learning
         - Cybersecurity
         - Medical Image Analysis
-        - title: Research experience 
+        - title: Research experience
           contents:
             - Intrusion Detection Systems
             - Generative Adversarial Networks (GAN)
@@ -28,12 +28,17 @@
       year: 2021
       description:
         - Basic foundation of Computer Science
-        - Programming languages: C, C++, Python, Java
+        - title: Programming languages
+          contents:
+            - C, C++, Python, Java
         - Data Structures and Algorithms
         - title: Final Year Thesis
           contents:
-            - Topic: On age prediction from facial images in presence of facial expressions
-            - Description: Developed a machine learning-based model to address and mitigate the challenges of age prediction from facial images, particularly in the presence of varying facial expressions. The model leverages facial landmark based feature extraction and feature engineering to improve accuracy and robustness.
+            - title: Topic
+              contents: On age prediction from facial images in presence of facial expressions
+            - title: Description
+              contents:
+                - Developed a machine learning-based model to address and mitigate the challenges of age prediction from facial images, particularly in the presence of varying facial expressions. The model leverages facial landmark based feature extraction and feature engineering to improve accuracy and robustness.
 
 - title: Experience
   type: time_table
@@ -49,9 +54,9 @@
           contents:
             - Intrusion Detection System (IDS)
             - Generative Adversarial Network (GAN)
-            - Federated Learning (FL), Reinforcement Learning (RL), Split Learning, 
-            - Feature Engineering, Model Explainability 
-            - PyTorch, TensorFlow, Scikit-Learn, Keras, matPlotlib, Seaborn 
+            - Federated Learning (FL), Reinforcement Learning (RL), Split Learning,
+            - Feature Engineering, Model Explainability
+            - PyTorch, TensorFlow, Scikit-Learn, Keras, matPlotlib, Seaborn
             - Python, R
 
     - title: Research Trainee
@@ -59,11 +64,11 @@
       year: Summer 2024
       description:
         - Find out and exploit vulnerability of Machine Learning models deployed in medical fields
-        - • Launch attack on privacy-preserving machine learning models to harm the fairness and performance
+        - Launch attack on privacy-preserving machine learning models to harm the fairness and performance
         - title: Key skills and technologies
           contents:
-            - Federated Learning (FL) 
-            - Fairness in AI, Data heterogeneity 
+            - Federated Learning (FL)
+            - Fairness in AI, Data heterogeneity
             - Model and hyperparameter fine-tuning
             - NVFlare, MONAI, nnUNet, SciPy
 
@@ -79,9 +84,8 @@
           contents:
             - Web Development, Software Development Lifecycle (SDLC)
             - JavaScript (Node.js, AngularJS), HTML, CSS
-            - Relational Database Management System (MSSQL) 
+            - Relational Database Management System (MSSQL)
             - Version Controlling (Git, Visual Studio)
-
 #     - title: Professor of Theoretical Physics
 #       institution: Karl-Ferdinand University, Prague, Czechoslovakia
 #       year: 1911 - 1917
