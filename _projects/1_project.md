@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Environmental Pollution Prediction & Visualization
+# description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project was a part of one of my graduate courses (Database Managemenet Systems). In this project, we (a group of 4) combined DBMS and ML to predict and visualize air pollution. My role was to conduct data mining and data cleaning to handle missing data and unwanted outliers. I utilized SQLite to create a lightweight database. TensorFlow framework was used to conduct machine learning and prediction. Also, I assisted another partner with the data visualization framework (flask). Here is the [github link](https://github.com/mc811mc/dbms-final-project) to our project.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
