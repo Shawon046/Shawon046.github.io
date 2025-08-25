@@ -28,17 +28,12 @@
       year: 2021
       description:
         - Basic foundation of Computer Science
-        - title: Programming languages
-          contents:
-            - C, C++, Python, Java
+        - "Programming languages: C, C++, Python, Java"
         - Data Structures and Algorithms
         - title: Final Year Thesis
           contents:
-            - title: Topic
-              contents: On age prediction from facial images in presence of facial expressions
-            - title: Description
-              contents:
-                - Developed a machine learning-based model to address and mitigate the challenges of age prediction from facial images, particularly in the presence of varying facial expressions. The model leverages facial landmark based feature extraction and feature engineering to improve accuracy and robustness.
+            - "Topic: On age prediction from facial images in presence of facial expressions"
+            - "Description: Developed a machine learning-based model to address and mitigate the challenges of age prediction from facial images, particularly in the presence of varying facial expressions. The model leverages facial landmark based feature extraction and feature engineering to improve accuracy and robustness."
 
 - title: Experience
   type: time_table

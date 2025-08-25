@@ -26,7 +26,13 @@ latest_posts:
 
 I am an MS student in Computer Science department at Virginia Tech. I am expected to graduate in December, 2025. During my MS study, I enjoyed taking courses to explore different aspects of machine learning and cybersecurity. I also have gained some research experience in the domain of security and privacy of machine learning models. Additionally, I explored Intrusion Detection Systems modeling with the help of Generative Adversarial Networks (GAN).
 
-Previously, I gained experience as a Research Trainee at Children’s National Medical Center during the Summer, 2024. Over there, my work was focus on exploring and exploiting the vulnerabilities of Machine Learning models deployed in medical fields. My goal was to demonstrate attacks on privacy-preserving machine learning models to harm the fairness and performance. Also, I served as a Junior Software Developer at Loosely Coupled Technologies Sdn Bhd in 2021. My role was to design front end with AngularJS and implement the server side of web applications using Node.js, along with writing web services in MSSQL through stored procedures. Moreover, I performed on (client’s) demand basis integration and development using Visual Studio. Furthermore, I efficiently communicated with the Malaysian business team to reflect the aspired changes in development
+Previously, I gained experience as a Research Trainee at Children’s National Medical Center during the Summer, 2024. Over there, my work was focus on exploring and exploiting the vulnerabilities of Machine Learning models deployed in medical fields.
+
+<!-- My goal was to demonstrate attacks on privacy-preserving machine learning models to harm the fairness and performance.  -->
+
+Also, I served as a Junior Software Developer at Loosely Coupled Technologies Sdn Bhd in 2021. My role was to design front end with AngularJS and implement the server side of web applications using Node.js, along with writing web services in MSSQL through stored procedures
+
+<!-- Moreover, I performed on (client’s) demand basis integration and development using Visual Studio. Furthermore, I efficiently communicated with the Malaysian business team to reflect the aspired changes in development. -->
 
 I completed my undergrad from the Bangladesh University of Engineering and Technology (BUET) in the Computer Science and Engineering department back in 2021. In the final year, I published my thesis on age prediction from facial images in presence of facial expressions. We developed a machine learning-based model to address and mitigate the challenges of age prediction from facial images, particularly in the presence of varying facial expressions.
 
