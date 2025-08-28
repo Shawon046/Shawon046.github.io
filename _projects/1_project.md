@@ -2,14 +2,14 @@
 layout: page
 title: Environmental Pollution Prediction & Visualization
 # description: with background image
-img: assets/img/12.jpg
+img: assets/img/EnvironmentalPollutionPredictionVisualization.png
 importance: 1
-category: work
+category: grad
 related_publications: true
 ---
 
 This project was a part of one of my graduate courses (Database Managemenet Systems). In this project, we (a group of 4) combined DBMS and ML to predict and visualize air pollution. My role was to conduct data mining and data cleaning to handle missing data and unwanted outliers. I utilized SQLite to create a lightweight database. TensorFlow framework was used to conduct machine learning and prediction. Also, I assisted another partner with the data visualization framework (flask). Here is the [github link](https://github.com/mc811mc/dbms-final-project) to our project.
-
+<!-- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -67,4 +67,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
