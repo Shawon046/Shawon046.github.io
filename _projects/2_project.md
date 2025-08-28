@@ -4,7 +4,7 @@ title: Crime Prediction Using ML Methods
 description: a project with TensorFlow, Keras, scikit-learn, geopandas
 img: assets/img/CrimePredictionHeatMapLocation.png
 importance: 2
-category: grad
+category: Grad
 giscus_comments: true
 ---
 

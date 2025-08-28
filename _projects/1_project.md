@@ -4,7 +4,7 @@ title: Environmental Pollution Prediction & Visualization
 description: A project with SQLite, TensorFlow, flask
 img: assets/img/EnvironmentalPollutionPredictionVisualization.png
 importance: 1
-category: grad
+category: Grad
 related_publications: true
 ---
 
