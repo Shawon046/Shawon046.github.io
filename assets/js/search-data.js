@@ -426,24 +426,24 @@ ninja.data = [{
           description: "a project with TensorFlow, Keras, scikit-learn, geopandas",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-online-product-locator-web-application",
+          title: 'Online Product Locator (Web) Application',
+          description: "a project with TensorFlow, Keras, scikit-learn, geopandas",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-computer-security-attack-simulation",
+          title: 'Computer Security Attack Simulation',
+          description: "Attack simulation with Seed Ubuntu, CSRF Lab Site, XSS Lab Site",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-pattern-recognition-algorithms-implementation",
+          title: 'Pattern Recognition Algorithms Implementation',
+          description: "Implementing different algorithms from scratch using Python, pandas, NumPy, Matplotlib",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-obstacle-avoiding-automated-car",
+          title: 'Obstacle Avoiding Automated Car',
+          description: "a project with Microcontroller and Microprocessor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
