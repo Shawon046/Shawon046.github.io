@@ -3,7 +3,7 @@ layout: page
 title: Online Product Locator (Web) Application
 description: a project with TensorFlow, Keras, scikit-learn, geopandas
 img:
-redirect: https://unsplash.com
+# redirect: https://unsplash.com
 importance: 1
 category: Undergrad
 ---

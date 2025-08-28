@@ -26,11 +26,7 @@ latest_posts:
 
 Hello, I am Shawon, an MS student in Computer Science department at Virginia Tech. I am expected to graduate in December, 2025. During my MS study, I enjoyed taking courses to explore different aspects of machine learning and cybersecurity. I also have gathered some research experience in the domain of security and privacy of machine learning models. Additionally, I explored Intrusion Detection Systems modeling with the help of Generative Adversarial Networks (GAN). I have 6+ years of experience in teaching mathematics and programming to high school students. Also, I gained 5+ years of experience in machine learning, data analysis, data visualization, and applying Artificial Intelligence to facilitate healthcare.
 
-Previously, I gained experience as a Research Trainee at Children’s National Medical Center during the Summer, 2024. Over there, my work was focus on exploring and exploiting the vulnerabilities of Machine Learning models deployed in medical fields.
-
-<!-- My goal was to demonstrate attacks on privacy-preserving machine learning models to harm the fairness and performance.  -->
-
-Also, I served as a Junior Software Developer at Loosely Coupled Technologies Sdn Bhd in 2021. My role was to design front end with AngularJS and implement the server side of web applications using Node.js, along with writing web services in MSSQL through stored procedures
+Previously, I gained experience as a Research Trainee at Children’s National Medical Center during the Summer, 2024. Over there, my work was focus on exploring and exploiting the vulnerabilities of Machine Learning models deployed in medical fields. Also, I served as a Junior Software Developer at Loosely Coupled Technologies Sdn Bhd in 2021. My role was to design front end with AngularJS and implement the server side of web applications using Node.js, along with writing web services in MSSQL through stored procedures
 
 <!-- Moreover, I performed on (client’s) demand basis integration and development using Visual Studio. Furthermore, I efficiently communicated with the Malaysian business team to reflect the aspired changes in development. -->
 
