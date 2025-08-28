@@ -418,12 +418,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-environmental-pollution-prediction-amp-visualization",
           title: 'Environmental Pollution Prediction &amp;amp; Visualization',
-          description: "",
+          description: "A project with SQLite, TensorFlow, flask",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-crime-prediction-using-ml-methods",
+          title: 'Crime Prediction Using ML Methods',
+          description: "a project with TensorFlow, Keras, scikit-learn, geopandas",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
