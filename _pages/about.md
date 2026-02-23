@@ -6,7 +6,7 @@ subtitle: MS in CS @ Virginia Tech #<a href='#'>Affiliations</a>. Address. Conta
 
 profile:
   align: right
-  image: profile_pic.jpeg
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: 571-622-8116 shawon56512@gmail.com
 
